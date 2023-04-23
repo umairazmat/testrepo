@@ -1,5 +1,5 @@
-# testrepo
+# Test Repo
 
-## editing the file
+## Editing the File
 
 IBM Full Stack Software Developer
